@@ -1,0 +1,13 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+}
+#start,#status
+{
+    font-size: 22px;
+}
+#canvas
+{
+    text-align: center;
+}
